@@ -5,7 +5,7 @@ image: https://image.freepik.com/fotos-gratis/fundo-abstrato-codigo-binario_1048
 heading: Primeiros passos...
 subheading: Maneiras de remover números de uma string usando JS...
 mainpitch:
-  title: Como remover números de uma String
+  title: Como remover números de uma string
   description: Quando estamos desenvolvendo algo, normalmente precisamos fazer
     várias validações de nome, senha, email, documentos e muito mais, e por
     conta disso precisamos simplificar algumas funções para utilizar mais de uma
